@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com.grpc" />
+        <module name="grpcExamples" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="com.grpc" target="8" />
+      <module name="grpcExamples" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
