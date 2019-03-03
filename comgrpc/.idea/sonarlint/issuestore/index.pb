@@ -1,0 +1,21 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/proto/dummy/dummy.proto,2/0/2028995a913d89db257203b664ce295b4c9df90d
+P
+ src/main/proto/greet/greet.proto,6/c/6cc0b42255619c960efd13c4f3f269e7d9baeded
+c
+3src/main/java/greeting/server/GreetServiceImpl.java,8/e/8e7506bb2320f956eeb55f9f1d0cf0ab3d38eb37
+a
+1src/main/java/greeting/client/GreetingClient.java,7/6/7640dfd9b8ab65a1bb43c3df739dd54c39d3d31f
+a
+1src/main/java/greeting/server/GreetingServer.java,9/8/9844da51728d608ad2fdb289600683a74ac381a2
+Z
+*src/main/proto/calculator/calculator.proto,7/a/7acb0246eb035d72ecfeb777d9ae6f19c3d49138
+j
+:src/main/java/calculator/server/CalculatorServiceImpl.java,9/0/9047442d2eb596e9553f6e07114f32d5be9ca888
+e
+5src/main/java/calculator/server/CalculatorServer.java,d/f/df5a3c1d6885cdee54c636c76e09bb6cb187b778
+e
+5src/main/java/calculator/client/CalculatorClient.java,d/2/d297b7927af943ce06b94e89c2a76c01668068af
